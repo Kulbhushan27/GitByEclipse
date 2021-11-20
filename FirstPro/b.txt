@@ -1,0 +1,3 @@
+first commit in b
+second commit in b
+third commit in b
